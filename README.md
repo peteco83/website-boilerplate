@@ -1,1 +1,1 @@
-# html-boilerplate
+# website-boilerplate
